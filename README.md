@@ -19,7 +19,7 @@ infraestrutura de rede e avaliação de segurança baseada no método **GUT**.
 
 ### 4. **Infraestrutura de Rede**
 - Planta baixa da rede estruturada para a papelaria.
-- Lista de equipamentos (roteadores, switches, APs).
+- Lista de equipamentos (roteadores, switches, Servidores..).
 - Planejamento das conexões e diagrama lógico.
 
 ### 5. **Análise de Segurança**
