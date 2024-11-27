@@ -9,12 +9,18 @@ infraestrutura de rede e avaliação de segurança baseada no método **GUT**.
 
 ## 🔍 Funcionalidades
 ### 1. **Inteligência Artificial**
-
+- Implementação de Algoritimos de ML (classificação e regressão linear)
+- Implementação dos modelos escolhidos utilizando Scikit-learn
+  
 
 ### 2. **Análise de Dados**
+- Limpeza e pré-processamento dos dados
+- analise descritiva dos dados
 
 
 ### 3. **Visualizações e Gráficos**
+- Visualização da Matriz de Confusão
+- Visualização dos dados e resultados utilizando bibliotecas como Matplotlib e Seaborn.
 
 
 ### 4. **Infraestrutura de Rede**
