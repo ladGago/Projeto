@@ -1,0 +1,197 @@
+Produto,Categoria,Quantidade,Valor_unitario,Fornecedor
+Tesoura,Decoração,1.0,41.21,Fornecedor C
+Borracha,Papelaria,1.0,67.55,Fornecedor C
+Lápis,Decoração,36.0,54.33,Fornecedor E
+Borracha,Escolar,13.0,61.48,Fornecedor C
+Borracha,Decoração,27.0,67.37,Fornecedor D
+Papel A4,Escolar,6.0,94.37,Fornecedor C
+Apontador,Escritório,43.0,2.87,Fornecedor A
+Lápis,Papelaria,23.0,74.44,Fornecedor D
+Borracha,Escritório,45.0,86.37,Fornecedor A
+Apontador,Artes,16.0,66.63,Fornecedor A
+Fichario,Escritório,24.0,32.73,Fornecedor E
+Caneta,Artes,40.0,22.36,Fornecedor B
+Apontador,Decoração,14.0,65.51,Fornecedor C
+Régua,Escolar,18.0,74.09,Fornecedor C
+Papel A4,Escritório,29.0,7.95,Fornecedor D
+Caderno,Papelaria,49.0,61.73,Fornecedor A
+Caderno,Escolar,41.0,43.73,Fornecedor E
+Apontador,Papelaria,18.0,63.43,Fornecedor E
+Cola,Decoração,37.0,23.61,Fornecedor C
+Tesoura,Escritório,14.0,65.74,Fornecedor D
+Borracha,Escritorio,8.0,86.25,Fornecedor D
+Envelope,Decoração,32.0,91.88,Fornecedor A
+Papel A4,Artes,14.0,74.36,Fornecedor B
+Apontador,Escolar,29.0,76.98,Fornecedor E
+Cola,Artes,31.0,28.47,Fornecedor A
+Borracha,Decoração,29.0,19.62,Fornecedor E
+Caneta,Papelaria,6.0,44.19,Fornecedor C
+Caderno,Decoração,5.0,61.39,Fornecedor D
+Régua,Escolar,48.0,50.75,Fornecedor B
+Cola,Artes,9.0,2.73,Fornecedor C
+Caderno,Artes,15.0,22.55,Fornecedor B
+Envelope,Decoração,9.0,2.18,Fornecedor E
+Papel A4,Decoração,19.0,36.48,Fornecedor D
+Envelope,Decoração,23.0,4.6,Fornecedor C
+Lápis,Escolar,45.0,68.32,Fornecedor E
+Papel A4,Escolar,9.0,46.58,Fornecedor B
+Apontador,Artes,45.0,21.56,Fornecedor D
+Borracha,Escolar,47.0,56.83,Fornecedor C
+Papel A4,Papelaria,41.0,70.37,Fornecedor C
+Lápis,Papelaria,38.0,84.62,Fornecedor C
+Caneta,Escritório,15.0,48.7005527638191,Fornecedor A
+Caderno,Decoração,50.0,52.76,Fornecedor E
+Lápis,Artes,35.0,96.88,Fornecedor C
+Papel A4,Decoração,16.0,27.0,Fornecedor B
+Envelope,Papelaria,2.0,69.43,Fornecedor B
+Caneta,Papelaria,44.0,81.42,Fornecedor A
+Papel A4,Papelaria,40.0,8.15,Fornecedor B
+Apontador,Papelaria,2.0,86.36,Fornecedor A
+Cola,Artes,45.0,25.3,Fornecedor D
+Cola,Escritório,31.0,3.87,Fornecedor B
+Apontador,Escolar,4.0,6.98,Fornecedor C
+Lápis,Decoração,16.0,86.42,Fornecedor A
+Tesoura,Escolar,10.0,25.55,Fornecedor D
+Tesoura,Decoração,21.0,92.87,Fornecedor B
+Papel A4,Escritório,37.0,88.77,Fornecedor B
+Caderno,Decoração,15.0,55.69,Fornecedor B
+Caneta,Escolar,21.0,99.23,Fornecedor B
+Tesoura,Artes,11.0,9.04,Fornecedor D
+Envelope,Papelaria,25.0,23.15,Fornecedor D
+Régua,Escolar,38.0,77.96,Fornecedor A
+Caneta,Artes,29.0,56.43,Fornecedor A
+Cola,Escritório,48.0,1.36,Fornecedor D
+Caderno,Artes,43.0,58.03,Fornecedor A
+Régua,Escritório,19.0,68.17,Fornecedor E
+Envelope,Decoração,14.0,14.3,Fornecedor B
+Régua,Escritório,9.0,92.79,Fornecedor B
+Tesoura,Escolar,44.0,85.05,Fornecedor C
+Caderno,Decoração,4.0,38.26,Fornecedor A
+Cola,Papelaria,23.0,16.52,Fornecedor E
+Régua,Decoração,47.0,50.77,Fornecedor E
+Régua,Escritório,11.0,53.78,Fornecedor C
+Apontador,Escritório,32.0,28.83,Fornecedor E
+Borracha,Artes,16.0,37.88,Fornecedor B
+Papel A4,Escolar,47.0,75.81,Fornecedor C
+Caderno,Escolar,1.0,95.62,Fornecedor A
+Lápis,Decoração,35.0,94.15,Fornecedor E
+Apontador,Decoração,42.0,49.46,Fornecedor B
+Caderno,Artes,14.0,92.43,Fornecedor C
+Apontador,Papelaria,35.0,30.77,Fornecedor C
+Borracha,Escritório,11.0,23.87,Fornecedor B
+Caderno,Decoração,18.0,82.44,Fornecedor C
+Cola,Artes,50.0,43.59,Fornecedor D
+Envelope,Artes,44.0,26.76,Fornecedor B
+Caderno,Escritório,37.0,11.02,Fornecedor C
+Lápis,Decoração,42.0,20.97,Fornecedor B
+Envelope,Escritório,5.0,30.16,Fornecedor C
+Apontador,Papelaria,47.0,87.69,Fornecedor B
+Cola,Papelaria,16.0,73.71,Fornecedor D
+Caderno,Escolar,43.0,37.46,Fornecedor D
+Borracha,Decoração,36.0,60.33,Fornecedor C
+Tesoura,Decoração,2.0,89.16,Fornecedor A
+Caneta,Decoração,27.0,48.42,Fornecedor E
+Envelope,Escolar,50.0,32.52,Fornecedor D
+Tesoura,Decoração,23.0,60.99,Fornecedor E
+Apontador,Papelaria,20.0,1.12,Fornecedor B
+Papel A4,Papelaria,10.0,4.44,Fornecedor A
+Borracha,Papelaria,38.0,98.03,Fornecedor E
+Caderno,Escolar,4.0,35.18,Fornecedor C
+Régua,Artes,5.0,94.88,Fornecedor B
+Envelope,Artes,50.0,51.52,Fornecedor B
+Régua,Escritório,41.0,58.43,Fornecedor B
+Régua,Papelaria,22.0,3.12,Fornecedor B
+Borracha,Escolar,17.0,8.08,Fornecedor A
+Papel A4,Escritório,38.0,91.02,Fornecedor B
+Cola,Artes,31.0,40.69,Fornecedor E
+Apontador,Escolar,28.0,91.52,Fornecedor E
+Lápis,Papelaria,2.0,25.43,Fornecedor E
+Régua,Escolar,30.0,31.71,Fornecedor D
+Régua,Papelaria,43.0,97.96,Fornecedor B
+Envelope,Escritório,14.0,62.34,Fornecedor C
+Caderno,Decoração,6.0,66.74,Fornecedor A
+Cola,Papelaria,50.0,37.4,Fornecedor C
+Tesoura,Artes,19.0,67.95,Fornecedor A
+Apontador,Artes,14.0,62.65,Fornecedor D
+Lápis,Artes,5.0,97.14,Fornecedor D
+Apontador,Papelaria,19.0,86.34,Fornecedor A
+Caneta,Escritório,5.0,74.0,Fornecedor B
+Cola,Escolar,37.0,95.33,Fornecedor C
+Caderno,Papelaria,15.0,98.61,Fornecedor C
+Tesoura,Escolar,27.0,52.03,Fornecedor E
+Caneta,Escolar,21.0,21.16,Fornecedor D
+Caderno,Artes,24.0,71.52,Fornecedor C
+Envelope,Escritório,22.0,40.23,Fornecedor B
+Envelope,Decoração,42.0,4.1,Fornecedor A
+Borracha,Escolar,35.0,29.09,Fornecedor B
+Envelope,Escritório,28.0,76.72,Fornecedor A
+Lápis,Papelaria,4.0,49.13,Fornecedor B
+Cola,Artes,38.0,47.97,Fornecedor B
+Lápis,Decoração,47.0,41.03,Fornecedor B
+Cola,Escritório,2.0,52.76,Fornecedor A
+Tesoura,Decoração,34.0,64.58,Fornecedor B
+Caneta,Escritório,35.0,59.16,Fornecedor E
+Lápis,Artes,50.0,23.84,Fornecedor D
+Caderno,Escolar,39.0,38.78,Fornecedor E
+Régua,Escritório,7.0,12.49,Fornecedor B
+Apontador,Artes,38.0,57.35,Fornecedor D
+Apontador,Escolar,17.0,21.56,Fornecedor B
+Lápis,Escolar,28.0,57.64,Fornecedor A
+Envelope,Artes,45.0,51.92,Fornecedor A
+Cola,Escritório,24.0,90.2,Fornecedor E
+Apontador,Decoração,26.0,98.8,Fornecedor D
+Papel A4,Artes,37.0,2.63,Fornecedor D
+Papel A4,Artes,37.0,43.83,Fornecedor C
+Apontador,Papelaria,6.0,70.21,Fornecedor D
+Caneta,Escritório,26.0,77.83,Fornecedor B
+Apontador,Decoração,35.0,6.03,Fornecedor C
+Envelope,Decoração,5.0,17.62,Fornecedor E
+Borracha,Decoração,30.0,36.04,Fornecedor B
+Envelope,Decoração,45.0,41.5,Fornecedor E
+Lápis,Decoração,11.0,48.47,Fornecedor E
+Caneta,Papelaria,5.0,48.32,Fornecedor E
+Papel A4,Escolar,37.0,49.09,Fornecedor E
+Cola,Artes,10.0,64.93,Fornecedor A
+Cola,Escritório,42.0,24.43,Fornecedor B
+Caneta,Escritório,3.0,7.95,Fornecedor B
+Borracha,Papelaria,35.0,25.87,Fornecedor C
+Tesoura,Decoração,1.0,50.77,Fornecedor B
+Régua,Escolar,45.0,74.72,Fornecedor C
+Apontador,Escritório,30.0,65.47,Fornecedor A
+Papel A4,Papelaria,36.0,93.89,Fornecedor D
+Tesoura,Decoração,15.0,52.74,Fornecedor E
+Borracha,Escritório,17.0,10.0,Fornecedor A
+Apontador,Escolar,10.0,52.26,Fornecedor B
+Envelope,Artes,24.0,5.72,Fornecedor C
+Borracha,Decoração,30.0,84.24,Fornecedor C
+Régua,Decoração,15.0,50.48,Fornecedor D
+Papel A4,Decoração,45.0,35.39,Fornecedor B
+Caderno,Papelaria,19.0,77.41,Fornecedor A
+Apontador,Escolar,47.0,87.72,Fornecedor E
+Cola,Artes,45.0,63.77,Fornecedor D
+Borracha,Escolar,9.0,50.91,Fornecedor E
+Régua,Decoração,13.0,10.54,Fornecedor C
+Envelope,Decoração,4.0,51.09,Fornecedor D
+Apontador,Escolar,34.0,1.63,Fornecedor E
+Cola,Escritório,43.0,93.57,Fornecedor D
+Caderno,Escritório,43.0,90.07,Fornecedor C
+Cola,Decoração,6.0,8.96,Fornecedor B
+Régua,Decoração,46.0,58.25,Fornecedor A
+Envelope,Escritório,2.0,21.75,Fornecedor B
+Envelope,Escolar,32.0,48.69,Fornecedor E
+Envelope,Papelaria,10.0,42.32,Fornecedor C
+Régua,Artes,14.0,66.8,Fornecedor D
+Caderno,Escritório,23.0,2.07,Fornecedor A
+Cola,Papelaria,45.0,49.15,Fornecedor C
+Tesoura,Escritório,38.0,38.18,Fornecedor C
+Papel A4,Escritório,17.0,6.77,Fornecedor A
+Papel A4,Escritório,20.0,42.79,Fornecedor A
+Régua,Artes,33.0,75.23,Fornecedor C
+Papel A4,Papelaria,40.0,16.74,Fornecedor E
+Apontador,Artes,5.0,27.2,Fornecedor E
+Caderno,Escolar,42.0,13.4,Fornecedor C
+Borracha,Artes,5.0,67.43,Fornecedor C
+Apontador,Papelaria,9.0,10.48,Fornecedor C
+Caneta,Artes,31.0,7.58,Fornecedor C
+Régua,Escritório,30.0,49.75,Fornecedor D
+Caneta,Escritório,10.0,2.5,Fornecedor A
